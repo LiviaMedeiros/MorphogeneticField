@@ -1,0 +1,24 @@
+{
+  "name": "morphogenetic-field",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviaMedeiros/MorphogeneticField.git"
+  },
+  "author": {
+    "name": "LiviaMedeiros",
+    "email": "livia@cirno.name",
+    "url": "https://github.com/LiviaMedeiros"
+  },
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

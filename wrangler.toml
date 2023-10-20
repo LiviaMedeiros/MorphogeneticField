@@ -1,0 +1,14 @@
+name = "morphogenetic-field"
+main = "src/index.mjs"
+compatibility_date = "2023-08-23"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = ["9 9 * * *"]
+
+[unsafe]
+  [[unsafe.bindings]]
+  id = "0ce68025-10e6-42e7-984d-d25c5e854bca"
+  name = "DATABASE"
+  type = "d1"
