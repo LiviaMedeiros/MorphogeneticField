@@ -19,6 +19,6 @@
   },
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "wrangler": "^4.31.0"
+    "wrangler": "^4.64.0"
   }
 }
